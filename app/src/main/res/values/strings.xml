@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppRoomProduto</string>
+    <string name="titulo_app">Cadastro de Produtos</string>
+    <string name="subtitulo_app">Exemplo prático de persistência com Room SQLite</string>
+    <string name="secao_cadastro">Novo produto</string>
+    <string name="secao_busca">Buscar por nome</string>
+    <string name="secao_atualizacao">Atualizar preço</string>
+    <string name="secao_exclusao">Excluir produtos</string>
+    <string name="secao_lista">Produtos cadastrados</string>
+</resources>
